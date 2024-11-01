@@ -1,1 +1,4 @@
-# sample
+# CT画像をPythonで表示しよう！
+DICOM形式の医用画像や放射戦治療計画に関連するDICOM形式のデータ（RTシリーズ）をPythonを使って表示したり解析したりするプロジェクトです。第1回目はDICOM形式で書かれたCT画像を表示する、です。
+## DICOM形式のCT画像を読む
+医用画像はDICOM形式で保存されている。DIOCM形式の画像をpythonで読むにはpydicomを使う。
